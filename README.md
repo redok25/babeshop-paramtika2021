@@ -8,3 +8,5 @@ Cara Penginstalan:
 2. Import SQL
 3. Ubah config database pada file .env
 4. Jalankan
+
+Demo site: http://babeshop.sjpbengkulu.com/public
